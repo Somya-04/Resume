@@ -43,7 +43,7 @@ SOFTWARE ENGINEERING STUDENT
 <article id="mainright">
 <section>
 <h2>ABOUT</h2>
-<p>I am student.Currently studying 3rd year of bachelor of computer application at mangalmay institute of management and technology.Aim is to use knowledge of HTML,CSS and MYSQL.</p>p>
+<p>I am student.Currently studying 3rd year of bachelor of computer application at mangalmay institute of management and technology.Aim is to use knowledge of HTML,CSS and MYSQL.</p>
 </section>
 <section>
 <h2>WORK EXPERIENCE</h2>
