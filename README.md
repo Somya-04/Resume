@@ -43,7 +43,7 @@ SOFTWARE ENGINEERING STUDENT
 <article id="mainright">
 <section>
 <h2>ABOUT</h2>
-<p>I am student.Currently studying 3rd year of bachelor of computer application at mangalmay institute of management and technology.Aim is to use knowledge og HTML,CSS and MYSQL.</p>p>
+<p>I am student.Currently studying 3rd year of bachelor of computer application at mangalmay institute of management and technology.Aim is to use knowledge of HTML,CSS and MYSQL.</p>p>
 </section>
 <section>
 <h2>WORK EXPERIENCE</h2>
@@ -54,30 +54,3 @@ I am a fresher
 </body>
 </html>
 
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
-    max-width: 960px;
-    margin: auto;
-}
-h1 {
-    font-size: 3em;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    text-align: center;
-}
-
-h2 {
-    font-size: 1.5em;
-    padding-bottom: 1em;
-}
-
-h3 {
-    font-size: 1em;
-    padding-bottom: 1em;
-}
-    main { 
-        display: grid;
-        grid-template-columns: 40% 60%;
-        margin-top: 3em;
-    }
