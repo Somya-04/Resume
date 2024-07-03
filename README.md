@@ -54,3 +54,30 @@ I am a fresher
 </body>
 </html>
 
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+}
+h1 {
+    font-size: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+}
+
+h3 {
+    font-size: 1em;
+    padding-bottom: 1em;
+}
+    main { 
+        display: grid;
+        grid-template-columns: 40% 60%;
+        margin-top: 3em;
+    }
