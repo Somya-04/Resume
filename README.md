@@ -3,7 +3,6 @@
 <head>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<title>SOFTWARE ENGINEER</title>
 </head>
 <body>
 <header id="header">
@@ -12,6 +11,8 @@
 <main>
 <article id="mainleft">
 <section>
+  <h2>Summary</h2>
+<p>Having Microsoft Excel skills means knowing how to use one of the most popular spreadsheet programs to organize,analyze, and manipulate data..Seeking to leverage my skills .Being a fresher I am passionate to learn new things. Looking forward for an internship to put in my skills into use and improve myself every day.</p>
 <h2>CONTACT</h2>
 <p>
 <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -38,10 +39,6 @@
 </section>            
 </article>
 <article id="mainright">
-<section>
-<h2>ABOUT</h2>
-<p>I am student.Currently studying 3rd year of bachelor of computer application at mangalmay institute of management and technology.</p>
-</section>
 <section>
 <h2>WORK EXPERIENCE</h2>
 I am a fresher
