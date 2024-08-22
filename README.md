@@ -8,9 +8,6 @@
 <body>
 <header id="header">
 <h1>KODI SOMYA</h1>
-<hr>
-SOFTWARE ENGINEERING STUDENT
-<hr>
 </header>
 <main>
 <article id="mainleft">
@@ -31,7 +28,7 @@ SOFTWARE ENGINEERING STUDENT
 </section>
 <section>
 <h2>SKILLS</h2>
-<p>HTML, CSS, MYSQL</p>
+<p>Ms excel, Ms word , Ms PowerPoint</p>
 </section>
 <section>
 <h2>EDUCATION</h2>
@@ -43,7 +40,7 @@ SOFTWARE ENGINEERING STUDENT
 <article id="mainright">
 <section>
 <h2>ABOUT</h2>
-<p>I am student.Currently studying 3rd year of bachelor of computer application at mangalmay institute of management and technology.Aim is to use knowledge of HTML,CSS and MYSQL.</p>
+<p>I am student.Currently studying 3rd year of bachelor of computer application at mangalmay institute of management and technology.</p>
 </section>
 <section>
 <h2>WORK EXPERIENCE</h2>
